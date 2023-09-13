@@ -1,0 +1,123 @@
+[
+    {
+        "id": 3658625,
+        "name": "Cumbayá",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.433327,
+            "lat": -0.2
+        }
+    },
+      {
+        "id": 3658666,
+        "name": "Cuenca",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.98333,
+            "lat": -2.88333
+        }
+    },
+      {
+        "id": 3652462,
+        "name": "Quito",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.524948,
+            "lat": -0.22985
+        }
+    },
+     {
+        "id": 3652516,
+        "name": "Quimshi",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.783333,
+            "lat": -2.9
+        }
+    },
+     {
+        "id": 3652567,
+        "name": "Quevedo",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -79.449997,
+            "lat": -1.03333
+        }
+    },
+    {
+        "id": 3652584,
+        "name": "Puyo",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -77.98333,
+            "lat": -1.46667
+        }
+    },
+
+    {
+        "id": 3652684,
+        "name": "Pujilí",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.683327,
+            "lat": -0.95
+        }
+    },
+    {
+        "id": 3655446,
+        "name": "Jipijapa",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -80.583328,
+            "lat": -1.33333
+        }
+    },
+    {
+        "id": 3657986,
+        "name": "Provincia de Esmeraldas",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -79.25,
+            "lat": 0.83333
+        }
+    },
+    {
+        "id": 3654533,
+        "name": "Machala",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -79.966667,
+            "lat": -3.26667
+        }
+    },
+    {
+        "id": 3652941,
+        "name": "Portoviejo",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -80.449997,
+            "lat": -1.05
+        }
+    },
+    {
+        "id": 3652350,
+        "name": "Riobamba",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.633331,
+            "lat": -1.66667
+        }
+    }
+]
